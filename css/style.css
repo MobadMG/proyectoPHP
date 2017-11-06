@@ -1,0 +1,170 @@
+body{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: #000;
+}
+
+.row{
+	text-align: center;
+}
+
+nav li{
+	text-decoration: none;
+	display: inline-block;
+	margin: 12px;
+}
+
+footer{
+	text-align: center;
+	background: #2b9942;
+	padding: 10px;
+	height: 80px;
+}
+h1{
+	color: white;
+	font-size: 15px;
+}
+h2{
+	color: white;
+	display: inline-flex;
+	font-size: 34px;
+}
+h3{
+	color: #2b9942;
+	display: inline-flex;
+	font-size: 35px;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+h4{
+	color: white;
+	display: inline-flex;
+	font-size: 45px;
+	position: absolute;
+}
+
+label{
+	color: grey;
+	
+}
+
+input{
+	color: white;
+	background: transparent;
+	border: solid white;
+	height: 35px;
+	width: 200px;
+}
+
+select{
+	color: green;
+	background: transparent;
+	border: solid white;
+	height: 35px;
+	width: 200px;
+}
+
+.indicador{
+	border-bottom: 5px solid;
+	color: #2b9942;
+}
+
+.sign{
+	color: #fff;
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+
+.menusTOP{
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+
+.instr li{
+	display: inline-block;
+	text-decoration: none;
+	margin: 40px;
+	margin-bottom: 80px;
+}
+
+.others-titles{
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+
+.texts{
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+
+.code{
+	color: #2b9942;
+	font-size: 50px;
+	border: none;
+	text-align: center;
+	height: 43px;
+	background-color: transparent;
+	padding-top: 10px;
+	width: 280px;
+}
+
+button{
+	background: #2b9942;
+	display: inline-flex;
+	height: 40px;
+	color: white;
+	border: none;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.border{
+	border: solid 4px white;
+	display: inline-flex;
+	height: 49px;
+	margin-top: -10px;
+	margin-bottom: 150px;
+}
+
+.right{
+	float: right;
+	width: 50%;
+	margin-bottom: 40px;
+}
+
+.left{
+	float: left;
+	width: 50%;
+	margin-bottom: 40px;
+}
+
+.signUp{
+	margin: 10px auto;
+	padding: 0 32%;
+}
+
+.register{
+	display: inline-block;
+}
+
+.space{
+	margin: 0 25 25 0px;
+	padding: 0 25px;
+}
+
+.botonRegister{
+	background: #2b9942; 
+	color: white; 
+	border: none; 
+	margin: 30px 0 60px 0;
+}
+
